@@ -6,6 +6,8 @@
 
 * [lmgtfy messenger bot | nodejs + heroku](https://github.com/gmolveau/lmgtfybot)
 
+* [lmgtfy messenger bot | small flask + heroku (for demo H2G2)](https://github.com/gmolveau/heroku_flask)
+
 * [basic messenger bot | flask + heroku](https://github.com/gmolveau/flask-messenger-bot)
 
 * [todo list messenger bot | flask + sqlalchemy + heroku](https://github.com/smolveau/TodoMessengerBot)
